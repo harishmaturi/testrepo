@@ -7,7 +7,5 @@ adding new line 4
 adding new line 5
 adding new line 6
 adding new line 7
-<<<<<<< HEAD
 adding new line 8
-=======
->>>>>>> branch 'master' of https://github.com/harishmaturi/testrepo.git
+
