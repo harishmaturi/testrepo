@@ -6,3 +6,5 @@ adding new line 3
 adding new line 4
 adding new line 5
 adding new line 6
+adding new line 4
+adding new line 5
